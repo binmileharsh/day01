@@ -1,1 +1,1 @@
-# day01
+starting your journey with binmile
